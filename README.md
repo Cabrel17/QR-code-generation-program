@@ -19,4 +19,4 @@ The app can be deployed on Streamlit Cloud or any compatible hosting service:
 - Download the ZIP file containing all QR codes.
 
 ## Overwiew of the app
-[Acces via](https://drive.google.com/file/d/13D-dpocolc-Bd82iOG9WoDureDeNiDoo/view?usp=drive_link)
+[Click to see](https://drive.google.com/file/d/13D-dpocolc-Bd82iOG9WoDureDeNiDoo/view?usp=drive_link)
