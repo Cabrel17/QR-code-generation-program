@@ -1,14 +1,7 @@
 # QR Code Generation Program
-This repository contains the main code to generate QR codes from a database of short codes. The application is designed according to the format of the input Excel files provided by the GTM team. It generates a ZIP file containing all the QR codes. This is an internal application intended for GTM team use within the company.
-
-## Deployment
-The app can be deployed on Streamlit Cloud or any compatible hosting service:
-- Push the project to GitHub.
-- Connect the repository to Streamlit Cloud.
-- Deploy the application online.
+This repository contains the main code to generate QR codes from a database of short codes. The application is designed according to the format of the input Excel files provided by the user. It generates a ZIP file containing all the QR codes.
 
 ## Usage
-- Open the Streamlit app.
 
 - Upload the Excel file via the sidebar.
 
