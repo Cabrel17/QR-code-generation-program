@@ -31,7 +31,7 @@ st.divider()
 # =========================
 # GUIDE D'UTILISATION
 # =========================
-with st.expander("ℹ️ Comment utiliser cette application"):
+with st.expander("ℹ️ Comment utiliser cette application ?"):
     st.markdown("""
     1. Préparez un fichier Excel avec au moins deux colonnes : les short codes et les noms d'entreprises.
     2. Chargez le fichier via le panneau de gauche.
