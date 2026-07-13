@@ -29,6 +29,18 @@ with col2:
 st.divider()
 
 # =========================
+# GUIDE D'UTILISATION
+# =========================
+with st.expander("ℹ️ Comment utiliser cette application"):
+    st.markdown("""
+    1. Préparez un fichier Excel avec au moins deux colonnes : les short codes et les noms d'entreprises.
+    2. Chargez le fichier via le panneau de gauche.
+    3. Indiquez les numéros de colonnes correspondants.
+    4. Cliquez sur **Générer les QR Codes**.
+    5. Si votre base dépasse 10 000 lignes, l'app la découpera automatiquement en plusieurs fichiers à traiter un par un.
+    """)
+
+# =========================
 # SIDEBAR
 # =========================
 with st.sidebar:
